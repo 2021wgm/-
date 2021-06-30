@@ -1,0 +1,1 @@
+<view class="data-v-f84883ca"><button data-event-opts="{{[['tap',[['nextStep',['$event']]]]]}}" class="btn data-v-f84883ca" bindtap="__e">下一步</button></view>

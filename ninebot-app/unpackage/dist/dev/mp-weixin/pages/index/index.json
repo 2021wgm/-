@@ -1,0 +1,16 @@
+{
+  "navigationBarTitleText": "个人信息完善",
+  "enablePullDownRefresh": false,
+  "autoBackButton": false,
+  "usingComponents": {
+    "nav-bar": "/component/navbar/index",
+    "basic-info": "/pages/basic-info/index",
+    "family-info": "/pages/family-info/index",
+    "education-info": "/pages/education-info/index",
+    "job-info": "/pages/job-info/index",
+    "training-info": "/pages/training-info/index",
+    "qualification-info": "/pages/qualification-info/index",
+    "positional-info": "/pages/positional-info/index",
+    "credentials-info": "/pages/credentials-info/index"
+  }
+}

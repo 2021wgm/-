@@ -1,0 +1,17 @@
+
+.content.data-v-a9dd68ae{
+ display: -webkit-box;
+ display: -webkit-flex;
+ display: flex;
+ -webkit-box-orient:vertical;
+ -webkit-box-direction:normal;
+ -webkit-flex-direction:column;
+         flex-direction:column;
+}
+.title.data-v-a9dd68ae{
+	font-size: 17px;
+	padding: 15px 0;
+	font-weight: 560;
+	border-bottom: 1px solid #e4e7ed;
+}
+

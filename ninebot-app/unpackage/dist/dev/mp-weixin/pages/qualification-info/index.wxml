@@ -1,0 +1,1 @@
+<view class="data-v-5e419270">职业资格信息页面<button data-event-opts="{{[['tap',[['nextStep',['$event']]]]]}}" class="btn data-v-5e419270" bindtap="__e"></button></view>

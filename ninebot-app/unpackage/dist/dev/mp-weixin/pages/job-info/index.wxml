@@ -1,0 +1,1 @@
+<view class="data-v-1c71987a">工作信息页面<button data-event-opts="{{[['tap',[['nextStep',['$event']]]]]}}" class="btn data-v-1c71987a" bindtap="__e">下一步</button></view>

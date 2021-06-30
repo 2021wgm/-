@@ -1,0 +1,1 @@
+<view class="data-v-50e51a5b"><view class="content data-v-50e51a5b">证件上传信息页面<button data-event-opts="{{[['tap',[['nextStep',['$event']]]]]}}" class="btn data-v-50e51a5b" bindtap="__e">提交</button></view></view>

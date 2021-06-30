@@ -1,0 +1,15 @@
+{
+  "pages": [
+    "pages/welcome/index",
+    "pages/index/index",
+    "pages/finish/index"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTextSize": "20px",
+    "navigationBarBackgroundColor": "#FFFFFF",
+    "backgroundColor": "#F8F8F8"
+  },
+  "usingComponents": {}
+}
